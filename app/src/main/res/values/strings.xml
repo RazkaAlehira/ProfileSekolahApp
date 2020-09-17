@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProfileSekolahApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_galeri">fragment_galeri</string>
+    <string name="fragment_prestasi">fragment_prestasi</string>
+    <string name="fragment_sekolah">fragment_sekolah</string>
+    <string name="fragment_founder">fragment_founder</string>
+    <string name="fragment_eksul">fragment_eksul</string>
+</resources>

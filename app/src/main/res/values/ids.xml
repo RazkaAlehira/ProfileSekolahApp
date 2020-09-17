@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sekolah_title" type="id" />
+    <item name="npsn" type="id" />
+    <item name="txt_npsn" type="id" />
+    <item name="alamat" type="id" />
+    <item name="txt_telepon" type="id" />
+    <item name="web" type="id" />
+    <item name="sosmed" type="id" />
+    <item name="facebook" type="id" />
+    <item name="instagram" type="id" />
+    <item name="twitter" type="id" />
+    <item name="txt_instagram" type="id" />
+    <item name="txt_facebook" type="id" />
+    <item name="txt_web" type="id" />
+</resources>

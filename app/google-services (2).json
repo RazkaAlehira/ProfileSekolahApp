@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670373557557",
+    "firebase_url": "https://profilesekolahapp.firebaseio.com",
+    "project_id": "profilesekolahapp",
+    "storage_bucket": "profilesekolahapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670373557557:android:868ed058c4adcf4a18087c",
+        "android_client_info": {
+          "package_name": "com.example.profilesekolahapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670373557557-a5t9rblvtsa313r4vrpbe2rvavrr96f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profilesekolahapp",
+            "certificate_hash": "534d508624813a2fcd1395d381823f83780353d1"
+          }
+        },
+        {
+          "client_id": "670373557557-9kuden612cim7s4c4s17us9ia8715jo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd5vNbDxlT4E2DgGQqpGvcIc5JcZ1ddN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670373557557-9kuden612cim7s4c4s17us9ia8715jo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
